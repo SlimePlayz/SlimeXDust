@@ -1,0 +1,2 @@
+# SlimeXDust
+Free dust script.
